@@ -9,6 +9,9 @@ IN5 = 24
 IN6 = 25
 OUT1 = 26
 OUT2 = 16
+RXD = 15
+TXD = 14
+TXEN = 18
 
 gpio.setmode(gpio.BCM)
 gpio.setwarnings(False)
@@ -20,6 +23,7 @@ gpio.setup(IN3, gpio.IN, pull_up_down=gpio.PUD_UP)
 gpio.setup(IN4, gpio.IN, pull_up_down=gpio.PUD_UP)
 gpio.setup(IN5, gpio.IN, pull_up_down=gpio.PUD_UP)
 gpio.setup(IN6, gpio.IN, pull_up_down=gpio.PUD_UP)
+gpio.setup(TXEN, gpio.OUT)
 
 toggle = False
 
@@ -35,13 +39,16 @@ while True:
             toggle = False
             gpio.output(OUT1, gpio.LOW)
             gpio.output(OUT2, gpio.HIGH)
+            gpio.output(TXEN, gpio.HIGH)
         else:
             toggle = True
             gpio.output(OUT1, gpio.HIGH)
             gpio.output(OUT2, gpio.LOW)
+            gpio.output(TXEN, gpio.HIGH)
     for i in range(6):
         pin = gpio.input(ins[i])
         if(in_state[i] != pin and pin == 0):
             print(str(time.time()) + "  "+  str(i))
         in_state[i] = pin
     
+GPIO.cleanup()

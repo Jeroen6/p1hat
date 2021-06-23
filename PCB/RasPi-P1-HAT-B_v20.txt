@@ -1,0 +1,62 @@
+Partlist exported from C:/Users/Jeroen Lodder/SynologyDrive/Projects/0 Multi/p1 monitor watermeter/GitHub/p1hat/RasPi-P1-HAT-B_v20.sch at 2021-06-23 22:04
+
+Part Value                  Device                 Package           Description                  DIELECTRIC MF MPN OC_FARNELL OC_NEWARK POPULARITY PROD_ID   SPICEPREFIX TOLERANCE
+C1   100nF                  C-EU050-024X044        C050-024X044      CAPACITOR, European symbol   X7R                                    33                   C                    
+C2   1nF                    C-EU050-024X044        C050-024X044      CAPACITOR, European symbol   X7R                                    33                   C                    
+C3   1nF                    C-EU050-024X044        C050-024X044      CAPACITOR, European symbol   X7R                                    33                   C                    
+C4   1nF                    C-EU050-024X044        C050-024X044      CAPACITOR, European symbol   X7R                                    33                   C                    
+C5   1nF                    C-EU050-024X044        C050-024X044      CAPACITOR, European symbol   X7R                                    33                   C                    
+C6   1nF                    C-EU050-024X044        C050-024X044      CAPACITOR, European symbol   X7R                                    33                   C                    
+C7   1nF                    C-EU050-024X044        C050-024X044      CAPACITOR, European symbol   X7R                                    33                   C                    
+C8   100nF                  C-EU050-024X044        C050-024X044      CAPACITOR, European symbol   X7R                                    33                   C                    
+C9   1nF                    C-EU050-024X044        C050-024X044      CAPACITOR, European symbol   X7R                                    33                   C                    
+C10  100nF                  C-EU050-024X044        C050-024X044      CAPACITOR, European symbol   X7R                                    33                   C                    
+D1                          LED3MM                 LED_3MM           LED (Generic)                                                                  DIO-08794                      
+D2                          LED3MM                 LED_3MM           LED (Generic)                                                                  DIO-08794                      
+D3                          LED3MM                 LED_3MM           LED (Generic)                                                                  DIO-08794                      
+D4                          LED3MM                 LED_3MM           LED (Generic)                                                                  DIO-08794                      
+D5                          LED3MM                 LED_3MM           LED (Generic)                                                                  DIO-08794                      
+D6                          LED3MM                 LED_3MM           LED (Generic)                                                                  DIO-08794                      
+D7                          LED3MM                 LED_3MM           LED (Generic)                                                                  DIO-08794                      
+D8                          LED3MM                 LED_3MM           LED (Generic)                                                                  DIO-08794                      
+IC1  74HC14D                74HC14D                SO14              Hex schmitt trigger INVERTER                                        0                                         
+K1   SSW-120-23-G-D         PIN20X2                PIN_20X2                                                                                                                        
+R1   10                     R-EU_0204/7            0204/7            RESISTOR, European symbol                                           79                   R           5%       
+R2   1k                     R-EU_0204/7            0204/7            RESISTOR, European symbol                                           79                   R           5%       
+R3   1k                     R-EU_0204/7            0204/7            RESISTOR, European symbol                                           79                   R           5%       
+R4   1k                     R-EU_0204/7            0204/7            RESISTOR, European symbol                                           79                   R           5%       
+R5   1k                     R-EU_0204/7            0204/7            RESISTOR, European symbol                                           79                   R           5%       
+R6   1k                     R-EU_0204/7            0204/7            RESISTOR, European symbol                                           79                   R           5%       
+R7   1k                     R-EU_0204/7            0204/7            RESISTOR, European symbol                                           79                   R           5%       
+R8   1k                     R-EU_0204/7            0204/7            RESISTOR, European symbol                                           79                   R           5%       
+R9   1k                     R-EU_0204/7            0204/7            RESISTOR, European symbol                                           79                   R           5%       
+R10  1k                     R-EU_0204/7            0204/7            RESISTOR, European symbol                                           79                   R           5%       
+R11  1k                     R-EU_0204/7            0204/7            RESISTOR, European symbol                                           79                   R           5%       
+R12  1k                     R-EU_0204/7            0204/7            RESISTOR, European symbol                                           79                   R           5%       
+R13  1k                     R-EU_0204/7            0204/7            RESISTOR, European symbol                                           79                   R           5%       
+R14  1k                     R-EU_0204/7            0204/7            RESISTOR, European symbol                                           79                   R           5%       
+R15  1k                     R-EU_0204/7            0204/7            RESISTOR, European symbol                                           79                   R           5%       
+R16  1k                     R-EU_0204/7            0204/7            RESISTOR, European symbol                                           79                   R           5%       
+R17  1k                     R-EU_0204/7            0204/7            RESISTOR, European symbol                                           79                   R           5%       
+R18  1k                     R-EU_0204/7            0204/7            RESISTOR, European symbol                                           79                   R           5%       
+R19  1k                     R-EU_0204/7            0204/7            RESISTOR, European symbol                                           79                   R           5%       
+R20  3k9                    R-EU_0204/7            0204/7            RESISTOR, European symbol                                           79                   R           5%       
+R21  3k9                    R-EU_0204/7            0204/7            RESISTOR, European symbol                                           79                   R           5%       
+R22  3k9                    R-EU_0204/7            0204/7            RESISTOR, European symbol                                           79                   R           5%       
+R23  3k9                    R-EU_0204/7            0204/7            RESISTOR, European symbol                                           79                   R           5%       
+R24  Rt                     R-EU_0204/7            0204/7            RESISTOR, European symbol                                           79                   R           5%       
+R25  3k9                    R-EU_0204/7            0204/7            RESISTOR, European symbol                                           79                   R           5%       
+R27  1k                     R-EU_0204/7            0204/7            RESISTOR, European symbol                                           79                   R           5%       
+R28  1k                     R-EU_0204/7            0204/7            RESISTOR, European symbol                                           79                   R           5%       
+U1   BTS4141N               BTS4141N"              PG-SOT-223                                                                                                                      
+U2   BTS4141N               BTS4141N"              PG-SOT-223                                                                                                                      
+U3   ST3485EBDR             SN65HVD7X              SOIC-8                                                                                                                          
+X1   AK500/3                AK500/3                AK500/3           CONNECTOR                                      unknown    unknown   3                                         
+X2   AK500/3                AK500/3                AK500/3           CONNECTOR                                      unknown    unknown   3                                         
+X3   AK500/2                AK500/2                AK500/2           CONNECTOR                                      unknown    unknown   14                                        
+X4   AK500/2                AK500/2                AK500/2           CONNECTOR                                      unknown    unknown   14                                        
+X5   AK500/2                AK500/2                AK500/2           CONNECTOR                                      unknown    unknown   14                                        
+X6   AK500/2                AK500/2                AK500/2           CONNECTOR                                      unknown    unknown   14                                        
+X7   AK500/2                AK500/2                AK500/2           CONNECTOR                                      unknown    unknown   14                                        
+X8   AK500/2                AK500/2                AK500/2           CONNECTOR                                      unknown    unknown   14                                        
+X9   STL1550/3G-3.5-V-GREEN STL1550/3G-3.5-V-GREEN STL1550/3G-3.5-V-                                                                                                               
