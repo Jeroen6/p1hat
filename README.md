@@ -81,4 +81,4 @@ De gebruikte software is (gratis) Autodesk Fusion 360 voor niet-commercieel gebr
 De `*.f3z` bestanden zijn archieven hiervan.
 
 ## Suggesties of problemen?
-Zet deze in de [issues](https://github.com/Jeroen6/p1hat/issues).
+Zet deze in de [Issues](https://github.com/Jeroen6/p1hat/issues) en vragen in [Discussions](https://github.com/Jeroen6/p1hat/discussions).
