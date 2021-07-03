@@ -1,7 +1,13 @@
 # p1hat
 Rasbperry Pi P1 Monitor (ztatz.nl) IO HAT
 
+![pcb](./doc/img/thumbnail_pcb.jpg)
+
+## Behuizing
+Er is ook een behuizing!
+
 ![render](./doc/img/renderv20.png)
+
 
 ## Aansluitingen
 
@@ -59,15 +65,20 @@ De middelste pin van de RS-485 header is GND, dit is meestal niet nodig.
 Lijst met onderdelen:
 
 - PCB, zie .txt file in de map PCB voor onderdelen.
-    - De onderdelen zijn te krijgen op AliExpress en Conrad.
+    - De onderdelen zijn te krijgen via Conrad, Reichelt of zelfs AliExpress of sinuss.nl (dat is farnell/avnet voor particulieren).
 - Raspberry Pi 4 met SD kaart en P1 Monitor
 - Behuizing 3D-geprint van PETG.
 - Schroeven
-    - 4x M2.5x14 Verzonken Torx (TX8) WS 9475TX
+    - 4x M2.5x16 Verzonken Torx (TX8) WS 9475TX
     - 4x M2.5x12 Verzonken Torx (TX8) WS 9475TX
         - Zie [rvspaleis.nl](https://www.rvspaleis.nl/bouten/torx/ws-9475/ws-9475-[-]-a2-[-]-m2,5)
+
+> De 1 kOhm pull-ups parallel aan de LED heb ik op mijn print niet geplaatst. Mogelijk zijn deze bij andere typen, of geen, LED's wel nodig.
 
 ## Software
 
 De gebruikte software is (gratis) Autodesk Fusion 360 voor niet-commercieel gebruik. 
 De `*.f3z` bestanden zijn archieven hiervan.
+
+## Suggesties of problemen?
+Zet deze in de [issues](https://github.com/Jeroen6/p1hat/issues).
