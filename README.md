@@ -6,7 +6,7 @@ Rasbperry Pi P1 Monitor (ztatz.nl) IO HAT
 ## Behuizing
 Er is ook een behuizing!
 
-![render](./doc/img/renderv20.png)
+![render](./doc/img/thumbnail_enclosure.jpg)
 
 
 ## Aansluitingen
