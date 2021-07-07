@@ -11,7 +11,7 @@ Er is ook een behuizing!
 
 ## Aansluitingen
 
-![aansluitingen](./doc/img/pcb-text.png)
+![aansluitingen](./doc/img/drawing_1.png)
 
 ## Inputs
 
